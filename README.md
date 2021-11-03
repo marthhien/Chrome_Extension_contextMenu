@@ -4,7 +4,7 @@
 
 ## Description
 
-To use open Google Chrome and Load as unpacked extension in Extensions.
+To use open Google Chrome and load as unpacked extension in Extensions.
 
 ![Extensions](Extensions.png)
 
